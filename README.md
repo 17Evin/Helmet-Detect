@@ -96,5 +96,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 * Thanks to all the contributors and resources that helped make this project possible.
 
 
-Just copy and paste this into your `README.md` file, and you're good to go! Let me know if you need further adjustments.
-```
